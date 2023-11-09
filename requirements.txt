@@ -1,4 +1,4 @@
 ipyleaflet==0.17.4
 osmnx==1.7.1
-voila==0.5.5
 shapely==2.0.2
+voila==0.2.6
