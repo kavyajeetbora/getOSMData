@@ -16,7 +16,6 @@ munch
 munkres
 osmnx
 pickleshare
-pip-chill
 pkgutil-resolve-name
 pysocks
 rasterio
